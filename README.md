@@ -170,11 +170,11 @@ delay (2000);
       - **LiquidCrystal I2C**
    Como se muestra en la siguente imagen.
 
-![]
+![](https://github.com/AdrianSalasCh/PRACTICA5-NIVEL-DE-AGUA/blob/main/LiquidCrystal%20I2C%20P4.PNG)
 
 3. Hacer la conexion del HC-SR0 con la ESP32, el LCD 16x2 (I2C), los LEDs y los resistores como se muestra en la siguente imagen.
 
-![]
+![](https://github.com/AdrianSalasCh/PRACTICA5-NIVEL-DE-AGUA/blob/main/CONEXION%20P5.PNG)
 
 ### Instrucciónes de operación
 
@@ -186,13 +186,13 @@ delay (2000);
 
 Cuando haya funcionado, verás los valores dentro del monitor serial y en el LCD, también se iluminarán los LEDs dependiendo el nivel seleccionado, como se muestra en las siguentes imagenes.
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA5-NIVEL-DE-AGUA/blob/main/SIMULACI%C3%93N%20TERMINADA%20P5-1.PNG)
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA5-NIVEL-DE-AGUA/blob/main/SIMULACI%C3%93N%20TERMINADA%20P5-2.PNG)
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA5-NIVEL-DE-AGUA/blob/main/SIMULACI%C3%93N%20TERMINADA%20P5-3.PNG)
 
-![]()
+![](https://github.com/AdrianSalasCh/PRACTICA5-NIVEL-DE-AGUA/blob/main/SIMULACI%C3%93N%20TERMINADA%20P5-4.PNG)
 
 ## CRÉDITOS
 
